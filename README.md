@@ -1,4 +1,4 @@
-# reactjs plus .net core webapi crud react.webapi  
+# Springboot Java8  Children In Queue Elimination problem 
 
 
 [![Springboot Framework](https://img.shields.io/badge/Springboot-2.2.6.RELEASE_Framework-blue.svg?style=plastic)](https://start.spring.io/) |[![Java](https://img.shields.io/badge/Java-java-blue.svg?style=plastic)](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html) | ![GitHub language count](https://img.shields.io/github/languages/count/ajeetx/react.webapi.demo.svg) | ![GitHub top language](https://img.shields.io/github/languages/top/ajeetx/react.webapi.demo.svg) |![GitHub repo size in bytes](https://img.shields.io/github/repo-size/ajeetx/react.webapi.demo.svg) 
