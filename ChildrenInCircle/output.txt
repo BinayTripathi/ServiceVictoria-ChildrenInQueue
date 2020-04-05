@@ -14,8 +14,13 @@
              |   | ,'   |   |.'           '---"  '---'     \   \ .'   |   | ,'           '---"  '---'     \   \ .'                      `---`      |   |.'     '---'    `--''           
              `----'     `---'                               `---`     `----'                               `---`                                   `---'                                
                                                                                                                                    
-2020-04-05 18:38:59.584  INFO 7588 --- [           main] c.b.e.ChildrenInCircleEntryApplication   : Starting ChildrenInCircleEntryApplication v0.0.1-SNAPSHOT on DESKTOP-R4VSAOQ with PID 7588 (C:\Study\JAVA\ChildrenInCircle\ChildrenInCircleEntry\target\ChildrenInCircleEntry-0.0.1-SNAPSHOT.jar started by Binay in C:\Study\JAVA\ChildrenInCircle)
-2020-04-05 18:38:59.600  INFO 7588 --- [           main] c.b.e.ChildrenInCircleEntryApplication   : No active profile set, falling back to default profiles: default
-2020-04-05 18:39:00.303  INFO 7588 --- [           main] c.b.e.ChildrenInCircleEntryApplication   : Started ChildrenInCircleEntryApplication in 1.452 seconds (JVM running for 2.08)
+2020-04-05 21:06:29.563  INFO 3004 --- [           main] c.b.e.ChildrenInCircleEntryApplication   : Starting ChildrenInCircleEntryApplication v0.0.1-SNAPSHOT on DESKTOP-R4VSAOQ with PID 3004 (C:\Study\JAVA\GIT_workspace\ChildrenInCircle\ChildrenInCircleEntry\target\ChildrenInCircleEntry-0.0.1-SNAPSHOT.jar started by Binay in C:\Study\JAVA\GIT_workspace\ChildrenInCircle)
+2020-04-05 21:06:29.567  INFO 3004 --- [           main] c.b.e.ChildrenInCircleEntryApplication   : No active profile set, falling back to default profiles: default
+2020-04-05 21:06:30.290  INFO 3004 --- [           main] c.b.e.ChildrenInCircleEntryApplication   : Started ChildrenInCircleEntryApplication in 1.363 seconds (JVM running for 2.021)
+
+
+
+
+##############   OUTPUT   ##############
 Sequence of children as they go out : [2, 4, 1, 5]
 Id of the winning child : 3
