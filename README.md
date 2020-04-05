@@ -86,7 +86,7 @@ ChildrenInCircle\ChildrenInCircleAlgo\target\surefire-reports
 
 Having any trouble? Please read out this [documentation](https://github.com/BinayTripathi/ServiceVictoria-ChildrenInQueue/edit/master/README.md) or [contact](mailto:binay.mckv@gmail.com) and to sort it out.
 
-  [![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project}) | ![GitHub contributors](https://img.shields.io/github/contributors/BinayTripathi/ServiceVictoria-ChildrenInQueue)|
+  [![HitCount](http://hits.dwyl.com/BinayTripathi/ServiceVictoria-ChildrenInQueue.svg)](http://hits.dwyl.com/BinayTripathi/ServiceVictoria-ChildrenInQueue) | ![GitHub contributors](https://img.shields.io/github/contributors/BinayTripathi/ServiceVictoria-ChildrenInQueue)|
  | --- | --- |
 
 
