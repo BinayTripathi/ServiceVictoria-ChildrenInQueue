@@ -33,8 +33,8 @@ The overall objective of the applications :
 
 ### Application design detail
 >   The application consists of 
-        *  A client executable jar
-        *  A non-executable depedency jar which can be used by any type of spring boot application (So that this is independent of **envirornemnt**)
+*  A client executable jar
+*  A non-executable depedency jar which can be used by any type of spring boot application (So that this is independent of **envirornemnt**)
     
 >   For a problem as this the over all **design seems to be overkill** however the purpose of the solution is 2-fold
         *  Demonstrate an optimal and feasible solution
