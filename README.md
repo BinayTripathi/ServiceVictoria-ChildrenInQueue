@@ -13,7 +13,7 @@ The repository consists of projects as below:
 
 | # |Project Name | Project detail | location| Environment |
 | ---| ---  | ---           | ---          | --- |
-| 1 | ChildrenInCircleAlgo| Jar with Algorithm logic |ChildrenInCircleAlgo | [![.SpringBoot framework](https://img.shields.io/badge/Springboot-2.2.6.RELEASE_Framework-blue.svg?style=plastic)](https://start.spring.io/)|
+| 1 | ChildrenInCircleAlgo| Jar with algorithm logic |ChildrenInCircleAlgo | [![.SpringBoot framework](https://img.shields.io/badge/Springboot-2.2.6.RELEASE_Framework-blue.svg?style=plastic)](https://start.spring.io/)|
 | 2 |ChildrenInCircleEntry | Client to invoke the jar with algo logic |  ChildrenInCircleEntry | [![.Net Framework](https://img.shields.io/badge/Springboot-2.2.6.RELEASE_Framework-blue.svg?style=plastic)](https://start.spring.io/)| 
 | 3 | pom.xml | Parent maven POM  | Parent folder- ChildrenInCircle | [![Node](https://img.shields.io/badge/Maven-mvn-blue.svg?style=plastic)](https://maven.apache.org/download.cgi) |
 
@@ -30,9 +30,19 @@ The overall objective of the applications :
 >   The algorithm has a time complexity  of order O(nk) and space complexity of O(1) - ignoring a list that is used to collect the final outout
 ```
 
+
+### Application design detail
+>   The application consists of 
+        *  A client executable jar
+        *  A non-executable depedency jar which can be used by any type of spring boot application (So that this is independent of **envirornemnt**)
+    
+>   For a problem as this the over all **design seems to be overkill** however the purpose of the solution is 2-fold
+        *  Demonstrate an optimal and feasible solution
+        *  Demonstrate Design acumen and SpringBoot familiarity
+
 ### Algorithm complexity
 >   Time complexity **O(nk)**  
->   Space complexity **O(1)**  ignorning the List to hold the output sequence
+>   Space complexity **O(1)**  ignoring the List to hold the output sequence
 
 
 ### Setup detail
