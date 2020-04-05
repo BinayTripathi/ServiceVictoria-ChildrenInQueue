@@ -21,7 +21,7 @@ The repository consists of projects as below:
 
 The overall objective of the applications :
 ```
->The application provides the solution to **Children in Queue elimination problem**. 
+> The application provides the solution to **Children in Queue elimination problem**. 
 
 >   As per the problem, for a given count of children (say n) and a skip sequence(k) every kth child is removed from the circular queue and we need the sequence of   elimination and the winner.
 
