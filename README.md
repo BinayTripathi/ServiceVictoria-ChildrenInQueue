@@ -27,7 +27,14 @@ The overall objective of the applications :
 
 >   The application consists of a non-executable depedency jar project(ChildrenInCircleAlgo) which contains the algorithm . 
 
->   The algorithm has a time complexity  of order O(nk) and space complexity of O(1) - ignoring a list that is used to collect the final outout
+>   The algorithm has a time complexity  of order O(nk) and space complexity of O(1) - ignoring a list that is used to collect the final outout.
+
+>   The application also has a client project - ChildrenInCircleEntry which uses the jar ChildrenInCircleAlgo-0.0.1-SNAPSHOT.jar  generated from the project ChildrenInCircleAlgo as a dependency. This client is for demonstration and the dependency jar can be used by any applcation.
+
+>   A brief design of the dependency jar is as follows:  
+    *   class 'ChildrenInCircle_GameManager' is invoked by the client. 
+    *   Abstract class 'IChildrenInCircleAlgo' is injected to the 'ChildrenInCircle_GameManager'. 
+    *   Class 'ChildrenInCircleIterativeAlgoImpl' is an implementation of 'IChildrenInCircleAlgo'.
 ```
 
 
