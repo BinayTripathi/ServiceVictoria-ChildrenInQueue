@@ -1,7 +1,7 @@
-# Springboot Java8  Children In Queue Elimination problem 
+# Children In Queue Elimination problem 
 
 
-[![.Net Framework](https://img.shields.io/badge/Springboot-2.2.6.RELEASE_Framework-blue.svg?style=plastic)](https://start.spring.io/) |[![Java](https://img.shields.io/badge/Java-java-blue.svg?style=plastic)](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html) | ![GitHub language count](https://img.shields.io/github/languages/count/BinayTripathi/ServiceVictoria-ChildrenInQueue.svg) | ![GitHub top language](https://img.shields.io/github/languages/top/BinayTripathi/ServiceVictoria-ChildrenInQueue.svg) |![GitHub repo size in bytes](https://img.shields.io/github/repo-size/BinayTripathi/ServiceVictoria-ChildrenInQueue.svg) 
+[![Spring_Boot_Framework](https://img.shields.io/badge/Springboot-2.2.6.RELEASE_Framework-blue.svg?style=plastic)](https://start.spring.io/) |[![Java](https://img.shields.io/badge/Java-java-blue.svg?style=plastic)](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html) | ![GitHub language count](https://img.shields.io/github/languages/count/BinayTripathi/ServiceVictoria-ChildrenInQueue.svg) | ![GitHub top language](https://img.shields.io/github/languages/top/BinayTripathi/ServiceVictoria-ChildrenInQueue.svg) |![GitHub repo size in bytes](https://img.shields.io/github/repo-size/BinayTripathi/ServiceVictoria-ChildrenInQueue.svg) 
 | --- | ---          | ---        | ---      | ---        | 
 
 ---------------------------------------
@@ -21,8 +21,9 @@ The repository consists of projects as below:
 
 The overall objective of the applications :
 ```
->	The application provides the solution to Children in Queue elimination problem where for a given Count of children (say n) and
->	a skip sequence(k) every kth child is removed from the circular queue and we need the sequence of elimination and the winner
+>	The application provides the solution to **Children in Queue elimination problem** 
+> As per the problem, for a given count of children (say n) and a skip sequence(k) every kth child is removed from 
+  the circular queue and we need the sequence of elimination and the winner
 >	The application consists of a non-executable depedency jar project(ChildrenInCircleAlgo) which contains the algorithm . The
 >	algorithm has a time complexity  of order O(nk) and space complexity of O(1) - ignoring a list that is used to collect the final outout
 ```
