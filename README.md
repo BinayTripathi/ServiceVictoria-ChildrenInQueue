@@ -32,9 +32,9 @@ The overall objective of the applications :
 >   The application also has a client project - ChildrenInCircleEntry which uses the jar ChildrenInCircleAlgo-0.0.1-SNAPSHOT.jar  generated from the project ChildrenInCircleAlgo as a dependency. This client is for demonstration and the dependency jar can be used by any applcation.
 
 >   A brief design of the dependency jar is as follows:  
-    *   class 'ChildrenInCircle_GameManager' is invoked by the client. 
+    *   Static method 'getEliminationSequenceAndWinner' of class 'ChildrenInCircle_GameManager' is invoked by the client. 
     *   Abstract class 'IChildrenInCircleAlgo' is injected to the 'ChildrenInCircle_GameManager'. 
-    *   Class 'ChildrenInCircleIterativeAlgoImpl' is an implementation of 'IChildrenInCircleAlgo'.
+    *   Class 'ChildrenInCircleIterativeAlgoImpl' that extends of 'IChildrenInCircleAlgo', has the actual implementation of the algorithm (see method 'getEliminationSequenceAndWinner' of class 'ChildrenInCircleIterativeAlgoImpl').
 ```
 
 
