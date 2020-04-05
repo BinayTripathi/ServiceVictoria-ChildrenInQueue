@@ -31,7 +31,7 @@ The overall objective of the applications :
 ```
 
 ### Algorithm complexity
->   Time complexity **O(nk)**
+>   Time complexity **O(nk)**  
 >   Space complexity **O(1)**  ignorning the List to hold the output sequence
 
 
