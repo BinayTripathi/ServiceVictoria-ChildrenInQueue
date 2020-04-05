@@ -47,6 +47,12 @@ public class ChildrenInCircleEntryApplication implements CommandLineRunner{
 
 
 			Optional<ChildrenInCircle_GameManager.GameOutputEntity> outputEntity = ChildrenInCircle_GameManager.getEliminationSequenceAndWinner(n, k);
+			
+			System.out.println();
+			System.out.println();
+			System.out.println();
+			System.out.println();
+			System.out.println("##############   OUTPUT   ##############");
 			System.out.println("Sequence of children as they go out : " + outputEntity.get().getEliminationSequence());
 			System.out.println("Id of the winning child : " + outputEntity.get().getWinnerIndex());
 
