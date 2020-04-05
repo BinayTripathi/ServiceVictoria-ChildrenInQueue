@@ -1,0 +1,21 @@
+                                                                                                                             ,----,                                                     
+                                                                                                                           ,/   .`|     ,----..                                         
+  .--.--.        ,---,. ,-.----.                    ,---,   ,----..       ,---,.                   ,---,   ,----..       ,`   .'  :    /   /   \   ,-.----.       ,---,    ,---,        
+ /  /    '.    ,'  .' | \    /  \          ,---. ,`--.' |  /   /   \    ,'  .' |          ,---. ,`--.' |  /   /   \    ;    ;     /   /   .     :  \    /  \   ,`--.' |   '  .' \       
+|  :  /`. /  ,---.'   | ;   :    \        /__./| |   :  : |   :     : ,---.'   |         /__./| |   :  : |   :     : .'___,/    ,'   .   /   ;.  \ ;   :    \  |   :  :  /  ;    '.     
+;  |  |--`   |   |   .' |   | .\ :   ,---.;  ; | :   |  ' .   |  ;. / |   |   .'    ,---.;  ; | :   |  ' .   |  ;. / |    :     |   .   ;   /  ` ; |   | .\ :  :   |  ' :  :       \    
+|  :  ;_     :   :  |-, .   : |: |  /___/ \  | | |   :  | .   ; /--`  :   :  |-,   /___/ \  | | |   :  | .   ; /--`  ;    |.';  ;   ;   |  ; \ ; | .   : |: |  |   :  | :  |   /\   \   
+ \  \    `.  :   |  ;/| |   |  \ :  \   ;  \ ' | '   '  ; ;   | ;     :   |  ;/|   \   ;  \ ' | '   '  ; ;   | ;     `----'  |  |   |   :  | ; | ' |   |  \ :  '   '  ; |  :  ' ;.   :  
+  `----.   \ |   :   .' |   : .  /   \   \  \: | |   |  | |   : |     |   :   .'    \   \  \: | |   |  | |   : |         '   :  ;   .   |  ' ' ' : |   : .  /  |   |  | |  |  ;/  \   \ 
+  __ \  \  | |   |  |-, ;   | |  \    ;   \  ' . '   :  ; .   | '___  |   |  |-,     ;   \  ' . '   :  ; .   | '___      |   |  '   '   ;  \; /  | ;   | |  \  '   :  ; '  :  | \  \ ,' 
+ /  /`--'  / '   :  ;/| |   | ;\  \    \   \   ' |   |  ' '   ; : .'| '   :  ;/|      \   \   ' |   |  ' '   ; : .'|     '   :  |    \   \  ',  /  |   | ;\  \ |   |  ' |  |  '  '--'   
+'--'.     /  |   |    \ :   ' | \.'     \   `  ; '   :  | '   | '/  : |   |    \       \   `  ; '   :  | '   | '/  :     ;   |.'      ;   :    /   :   ' | \.' '   :  | |  :  :         
+  `--'---'   |   :   .' :   : :-'        :   \ | ;   |.'  |   :    /  |   :   .'        :   \ | ;   |.'  |   :    /      '---'         \   \ .'    :   : :-'   ;   |.'  |  | ,'         
+             |   | ,'   |   |.'           '---"  '---'     \   \ .'   |   | ,'           '---"  '---'     \   \ .'                      `---`      |   |.'     '---'    `--''           
+             `----'     `---'                               `---`     `----'                               `---`                                   `---'                                
+                                                                                                                                   
+2020-04-05 18:38:59.584  INFO 7588 --- [           main] c.b.e.ChildrenInCircleEntryApplication   : Starting ChildrenInCircleEntryApplication v0.0.1-SNAPSHOT on DESKTOP-R4VSAOQ with PID 7588 (C:\Study\JAVA\ChildrenInCircle\ChildrenInCircleEntry\target\ChildrenInCircleEntry-0.0.1-SNAPSHOT.jar started by Binay in C:\Study\JAVA\ChildrenInCircle)
+2020-04-05 18:38:59.600  INFO 7588 --- [           main] c.b.e.ChildrenInCircleEntryApplication   : No active profile set, falling back to default profiles: default
+2020-04-05 18:39:00.303  INFO 7588 --- [           main] c.b.e.ChildrenInCircleEntryApplication   : Started ChildrenInCircleEntryApplication in 1.452 seconds (JVM running for 2.08)
+Sequence of children as they go out : [2, 4, 1, 5]
+Id of the winning child : 3
