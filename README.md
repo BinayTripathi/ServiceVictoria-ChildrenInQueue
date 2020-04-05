@@ -22,10 +22,9 @@ The repository consists of projects as below:
 The overall objective of the applications :
 ```
 >	The application provides the solution to **Children in Queue elimination problem** 
-> As per the problem, for a given count of children (say n) and a skip sequence(k) every kth child is removed from 
-  the circular queue and we need the sequence of elimination and the winner
->	The application consists of a non-executable depedency jar project(ChildrenInCircleAlgo) which contains the algorithm . The
->	algorithm has a time complexity  of order O(nk) and space complexity of O(1) - ignoring a list that is used to collect the final outout
+>   As per the problem, for a given count of children (say n) and a skip sequence(k) every kth child is removed from the circular queue and we need the sequence of   elimination and the winner
+>	The application consists of a non-executable depedency jar project(ChildrenInCircleAlgo) which contains the algorithm . 
+>   The algorithm has a time complexity  of order O(nk) and space complexity of O(1) - ignoring a list that is used to collect the final outout
 ```
 
 
