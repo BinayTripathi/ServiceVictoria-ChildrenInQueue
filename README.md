@@ -30,6 +30,10 @@ The overall objective of the applications :
 >   The algorithm has a time complexity  of order O(nk) and space complexity of O(1) - ignoring a list that is used to collect the final outout
 ```
 
+### Algorithm complexity
+>   Time complexity **O(nk)**
+>   Space complexity **O(1)**  ignorning the List to hold the output sequence
+
 
 ### Setup detail
 
