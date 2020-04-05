@@ -15,7 +15,7 @@ The repository consists of projects as below:
 | ---| ---  | ---           | ---          | --- |
 | 1 | ChildrenInCircleAlgo| Jar with Algorithm logic |ChildrenInCircleAlgo | [![.SpringBoot framework](https://img.shields.io/badge/Springboot-2.2.6.RELEASE_Framework-blue.svg?style=plastic)](https://start.spring.io/)|
 | 2 |ChildrenInCircleEntry | Client to invoke the jar with algo logic |  ChildrenInCircleEntry | [![.Net Framework](https://img.shields.io/badge/Springboot-2.2.6.RELEASE_Framework-blue.svg?style=plastic)](https://start.spring.io/)| 
-| 3 | pom.xml | Parent maven POM  | Parent folder- ChildrenInCircle | [![Node](https://img.shields.io/badge/Maven-mvn-blue.svg?style=plastic)]https://maven.apache.org/download.cgi) |
+| 3 | pom.xml | Parent maven POM  | Parent folder- ChildrenInCircle | [![Node](https://img.shields.io/badge/Maven-mvn-blue.svg?style=plastic)](https://maven.apache.org/download.cgi) |
 
 ### Summary
 
