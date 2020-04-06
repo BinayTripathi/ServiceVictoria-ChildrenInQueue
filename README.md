@@ -27,7 +27,14 @@ The overall objective of the applications :
 
 >   The application consists of a non-executable depedency jar project(ChildrenInCircleAlgo) which contains the algorithm . 
 
->   The algorithm has a time complexity  of order O(nk) and space complexity of O(1) - ignoring a list that is used to collect the final outout
+>   The algorithm has a time complexity  of order O(nk) and space complexity of O(1) - ignoring a list that is used to collect the final outout.
+
+>   The application also has a client project - ChildrenInCircleEntry which uses the jar ChildrenInCircleAlgo-0.0.1-SNAPSHOT.jar  generated from the project ChildrenInCircleAlgo as a dependency. This client is for demonstration and the dependency jar can be used by any applcation.
+
+>   A brief design of the dependency jar is as follows:  
+    *   Static method 'getEliminationSequenceAndWinner' of class 'ChildrenInCircle_GameManager' is invoked by the client. 
+    *   Abstract class 'IChildrenInCircleAlgo' is injected to the 'ChildrenInCircle_GameManager'. 
+    *   Class 'ChildrenInCircleIterativeAlgoImpl' that extends of 'IChildrenInCircleAlgo', has the actual implementation of the algorithm (see method 'getEliminationSequenceAndWinner' of class 'ChildrenInCircleIterativeAlgoImpl').
 ```
 
 
@@ -86,7 +93,7 @@ ChildrenInCircle\ChildrenInCircleAlgo\target\surefire-reports
 
 Having any trouble? Please read out this [documentation](https://github.com/BinayTripathi/ServiceVictoria-ChildrenInQueue/edit/master/README.md) or [contact](mailto:binay.mckv@gmail.com) and to sort it out.
 
-  [![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project}) | ![GitHub contributors](https://img.shields.io/github/contributors/BinayTripathi/ServiceVictoria-ChildrenInQueue)|
+  [![HitCount](http://hits.dwyl.com/BinayTripathi/ServiceVictoria-ChildrenInQueue.svg)](http://hits.dwyl.com/BinayTripathi/ServiceVictoria-ChildrenInQueue) | ![GitHub contributors](https://img.shields.io/github/contributors/BinayTripathi/ServiceVictoria-ChildrenInQueue)|
  | --- | --- |
 
 
