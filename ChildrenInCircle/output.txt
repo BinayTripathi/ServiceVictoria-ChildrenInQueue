@@ -1,22 +1,12 @@
-                                                                                                                             ,----,                                                     
-                                                                                                                           ,/   .`|     ,----..                                         
-  .--.--.        ,---,. ,-.----.                    ,---,   ,----..       ,---,.                   ,---,   ,----..       ,`   .'  :    /   /   \   ,-.----.       ,---,    ,---,        
- /  /    '.    ,'  .' | \    /  \          ,---. ,`--.' |  /   /   \    ,'  .' |          ,---. ,`--.' |  /   /   \    ;    ;     /   /   .     :  \    /  \   ,`--.' |   '  .' \       
-|  :  /`. /  ,---.'   | ;   :    \        /__./| |   :  : |   :     : ,---.'   |         /__./| |   :  : |   :     : .'___,/    ,'   .   /   ;.  \ ;   :    \  |   :  :  /  ;    '.     
-;  |  |--`   |   |   .' |   | .\ :   ,---.;  ; | :   |  ' .   |  ;. / |   |   .'    ,---.;  ; | :   |  ' .   |  ;. / |    :     |   .   ;   /  ` ; |   | .\ :  :   |  ' :  :       \    
-|  :  ;_     :   :  |-, .   : |: |  /___/ \  | | |   :  | .   ; /--`  :   :  |-,   /___/ \  | | |   :  | .   ; /--`  ;    |.';  ;   ;   |  ; \ ; | .   : |: |  |   :  | :  |   /\   \   
- \  \    `.  :   |  ;/| |   |  \ :  \   ;  \ ' | '   '  ; ;   | ;     :   |  ;/|   \   ;  \ ' | '   '  ; ;   | ;     `----'  |  |   |   :  | ; | ' |   |  \ :  '   '  ; |  :  ' ;.   :  
-  `----.   \ |   :   .' |   : .  /   \   \  \: | |   |  | |   : |     |   :   .'    \   \  \: | |   |  | |   : |         '   :  ;   .   |  ' ' ' : |   : .  /  |   |  | |  |  ;/  \   \ 
-  __ \  \  | |   |  |-, ;   | |  \    ;   \  ' . '   :  ; .   | '___  |   |  |-,     ;   \  ' . '   :  ; .   | '___      |   |  '   '   ;  \; /  | ;   | |  \  '   :  ; '  :  | \  \ ,' 
- /  /`--'  / '   :  ;/| |   | ;\  \    \   \   ' |   |  ' '   ; : .'| '   :  ;/|      \   \   ' |   |  ' '   ; : .'|     '   :  |    \   \  ',  /  |   | ;\  \ |   |  ' |  |  '  '--'   
-'--'.     /  |   |    \ :   ' | \.'     \   `  ; '   :  | '   | '/  : |   |    \       \   `  ; '   :  | '   | '/  :     ;   |.'      ;   :    /   :   ' | \.' '   :  | |  :  :         
-  `--'---'   |   :   .' :   : :-'        :   \ | ;   |.'  |   :    /  |   :   .'        :   \ | ;   |.'  |   :    /      '---'         \   \ .'    :   : :-'   ;   |.'  |  | ,'         
-             |   | ,'   |   |.'           '---"  '---'     \   \ .'   |   | ,'           '---"  '---'     \   \ .'                      `---`      |   |.'     '---'    `--''           
-             `----'     `---'                               `---`     `----'                               `---`                                   `---'                                
-                                                                                                                                   
-2020-04-05 21:06:29.563  INFO 3004 --- [           main] c.b.e.ChildrenInCircleEntryApplication   : Starting ChildrenInCircleEntryApplication v0.0.1-SNAPSHOT on DESKTOP-R4VSAOQ with PID 3004 (C:\Study\JAVA\GIT_workspace\ChildrenInCircle\ChildrenInCircleEntry\target\ChildrenInCircleEntry-0.0.1-SNAPSHOT.jar started by Binay in C:\Study\JAVA\GIT_workspace\ChildrenInCircle)
-2020-04-05 21:06:29.567  INFO 3004 --- [           main] c.b.e.ChildrenInCircleEntryApplication   : No active profile set, falling back to default profiles: default
-2020-04-05 21:06:30.290  INFO 3004 --- [           main] c.b.e.ChildrenInCircleEntryApplication   : Started ChildrenInCircleEntryApplication in 1.363 seconds (JVM running for 2.021)
+ ,---.                              ,--.                  ,--.   ,--. ,--.          ,--.                   ,--.          
+'   .-'   ,---.  ,--.--. ,--.  ,--. `--'  ,---.  ,---.     \  `.'  /  `--'  ,---. ,-'  '-.  ,---.  ,--.--. `--'  ,--,--. 
+`.  `-.  | .-. : |  .--'  \  `'  /  ,--. | .--' | .-. :     \     /   ,--. | .--' '-.  .-' | .-. | |  .--' ,--. ' ,-.  | 
+.-'    | \   --. |  |      \    /   |  | \ `--. \   --.      \   /    |  | \ `--.   |  |   ' '-' ' |  |    |  | \ '-'  | 
+`-----'   `----' `--'       `--'    `--'  `---'  `----'       `-'     `--'  `---'   `--'    `---'  `--'    `--'  `--`--' 
+                                                                                                                         
+2020-04-06 15:34:42.318  INFO 7008 --- [           main] c.b.e.ChildrenInCircleEntryApplication   : Starting ChildrenInCircleEntryApplication v0.0.1-SNAPSHOT on DESKTOP-R4VSAOQ with PID 7008 (C:\Study\JAVA\GIT_workspace\ChildrenInCircle\ChildrenInCircleEntry\target\ChildrenInCircleEntry-0.0.1-SNAPSHOT.jar started by Binay in C:\Study\JAVA\GIT_workspace\ChildrenInCircle)
+2020-04-06 15:34:42.329  INFO 7008 --- [           main] c.b.e.ChildrenInCircleEntryApplication   : No active profile set, falling back to default profiles: default
+2020-04-06 15:34:42.969  INFO 7008 --- [           main] c.b.e.ChildrenInCircleEntryApplication   : Started ChildrenInCircleEntryApplication in 1.268 seconds (JVM running for 1.901)
 
 
 
